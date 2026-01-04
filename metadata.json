@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TimberTrack - Professional Wood Calculator",
+  "description": "A precision wood measurement tool that calculates volume in board-feet or square-feet using the standard (L x W x T x Qty) / 144 formula. Features session history and AI-driven project estimation.",
+  "requestFramePermissions": []
+}
